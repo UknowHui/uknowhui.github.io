@@ -18,7 +18,8 @@
 
 
 # Build settings
-markdown: kramdown
+markdown: kramdown:input: GFM
+
 theme: minima
 gems:
   - jekyll-feed
