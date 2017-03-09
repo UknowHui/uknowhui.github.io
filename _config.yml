@@ -18,7 +18,7 @@
 
 
 # Build settings
-markdown: kramdown:input: GFM
+markdown: kramdown
 
 theme: minima
 gems:
